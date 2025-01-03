@@ -1,0 +1,7 @@
+print("Name : Muhammad Tariq Nasim Mirza")
+print("Your father's name : Dr. Nasim Mirza")
+print("Your current status (student or professional) : Professional")
+print("If professional, your job title : Consultant")
+print("If a student, your field of study : Computer Science")
+print("Your age : 56yrs")
+print("Your City : Lahore")
